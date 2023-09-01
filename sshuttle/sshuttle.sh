@@ -28,3 +28,5 @@ EOF
 
 echo 'export PATH="$PATH:$HOME"' >> ~/.bashrc
 source .bashrc
+
+sudo rm sshuttle.sh
