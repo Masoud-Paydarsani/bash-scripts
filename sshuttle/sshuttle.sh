@@ -1,5 +1,6 @@
 #!/bin/bash
 
+cd ~
 sudo apt install -y sshuttle 
 
 touch v{p,d,s}
